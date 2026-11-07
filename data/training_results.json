@@ -1,0 +1,27 @@
+{
+    "unigram": {
+        "n": 1,
+        "training_time_seconds": 1.413,
+        "vocabulary_size": 40461,
+        "validation_perplexity": 1308.2742,
+        "test_perplexity": 1261.8062,
+        "model_path": "models\\unigram.pkl.gz"
+    },
+    "bigram": {
+        "n": 2,
+        "training_time_seconds": 3.431,
+        "vocabulary_size": 40461,
+        "validation_perplexity": 1078.2198,
+        "test_perplexity": 1029.7699,
+        "model_path": "models\\bigram.pkl.gz"
+    },
+    "trigram": {
+        "n": 3,
+        "training_time_seconds": 7.817,
+        "vocabulary_size": 40461,
+        "validation_perplexity": 589.7958,
+        "test_perplexity": 573.3467,
+        "model_path": "models\\trigram.pkl.gz",
+        "backoff_strength": 500
+    }
+}

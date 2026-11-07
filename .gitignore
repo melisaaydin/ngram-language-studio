@@ -1,0 +1,21 @@
+# Virtual environments / Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Downloaded dataset / intermediate models
+data/prepared_data.json
+models/trigram_original.pkl.gz
+# Local secrets
+.env
+*.log
+
+# Trained model binaries
+models/*.pkl.gz

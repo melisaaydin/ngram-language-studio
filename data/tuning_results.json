@@ -1,0 +1,31 @@
+{
+    "experiments": [
+        {
+            "backoff_strength": 5,
+            "validation_perplexity": 1655.5677
+        },
+        {
+            "backoff_strength": 20,
+            "validation_perplexity": 957.5231
+        },
+        {
+            "backoff_strength": 100,
+            "validation_perplexity": 660.299
+        },
+        {
+            "backoff_strength": 500,
+            "validation_perplexity": 589.7958
+        },
+        {
+            "backoff_strength": 2000,
+            "validation_perplexity": 624.954
+        },
+        {
+            "backoff_strength": 10000,
+            "validation_perplexity": 738.8355
+        }
+    ],
+    "best_backoff_strength": 500,
+    "best_validation_perplexity": 589.7957842441764,
+    "final_test_perplexity": 573.3467378227804
+}

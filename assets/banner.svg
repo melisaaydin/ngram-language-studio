@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="N-Gram Language Studio">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101420"/><stop offset="1" stop-color="#192637"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff7a38"/><stop offset="1" stop-color="#ffc36e"/></linearGradient></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><circle cx="1086" cy="172" r="215" fill="#ff7a38" opacity=".055"/><circle cx="1106" cy="172" r="148" fill="none" stroke="#ff9855" stroke-opacity=".14" stroke-width="1"/>
+<g stroke="#91a8c3" stroke-opacity=".27" stroke-width="2" fill="none"><path d="M862 118 L986 81 L1115 119 L1214 68"/><path d="M862 118 L985 202 L1115 119 L1211 237"/><path d="M985 202 L1090 269 L1211 237"/><path d="M986 81 L1090 269"/></g>
+<g fill="#172132" stroke="#ffb47d" stroke-width="2"><circle cx="862" cy="118" r="13"/><circle cx="986" cy="81" r="12"/><circle cx="985" cy="202" r="14"/><circle cx="1115" cy="119" r="15"/><circle cx="1214" cy="68" r="10"/><circle cx="1211" cy="237" r="13"/><circle cx="1090" cy="269" r="12"/></g>
+<rect x="72" y="64" width="156" height="28" rx="14" fill="#ff813c" fill-opacity=".14" stroke="#ff813c" stroke-opacity=".4"/><text x="91" y="83" font-size="12" letter-spacing="2" font-family="Arial,sans-serif" font-weight="700" fill="#ffbd85">NATURAL LANGUAGE AI</text>
+<text x="70" y="166" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="#f4f7fb">N-Gram Language</text><text x="70" y="226" font-family="Arial,sans-serif" font-size="56" font-weight="800" fill="url(#accent)">Studio</text><text x="73" y="282" font-family="Arial,sans-serif" font-size="21" fill="#acbcd0">From word frequencies to interactive text generation.</text>
+<rect x="71" y="315" width="360" height="2" fill="url(#accent)" opacity=".8"/>
+</svg>
